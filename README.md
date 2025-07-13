@@ -40,7 +40,7 @@ A modern, full-stack web application for venue owners and users to manage, brows
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/sonugupta6045/Eazyvenue.git
 cd EazyVenue
 ```
 
